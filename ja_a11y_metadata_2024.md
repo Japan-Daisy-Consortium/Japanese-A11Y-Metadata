@@ -1,5 +1,5 @@
 ---
-title: アクセシブルなEPUBの日本語関連メタ情報のガイドライン version 0.2
+title: アクセシブルなEPUBの日本語関連メタ情報のガイドライン version 1.0
 author: 日本デイジーコンソーシアム 技術委員会
 date: 2024年11月30日
 paper: a4
